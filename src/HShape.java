@@ -1,4 +1,4 @@
 
-public class HShape {
+public class HShape extends AbstractShape {
 
 }
