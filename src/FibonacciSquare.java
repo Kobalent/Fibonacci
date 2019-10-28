@@ -2,9 +2,6 @@ import java.awt.Color;
 import java.awt.Graphics;
 
 public class FibonacciSquare extends AbstractShape {
-	private int x;
-	private int y;
-	private Color c;
 	private  int quadrant;
 	private int n;
 	
